@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="FullSuite">
+    <test name="Registration">
+        <classes>
+            <class name="tests.RegistrationTests"/>
+        </classes>
+    </test>
+    <test name="Login">
+        <classes>
+            <class name="tests.LoginTests"/>
+        </classes>
+    </test>
+</suite>
