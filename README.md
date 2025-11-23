@@ -1,0 +1,2 @@
+# JPetStoreAutomation
+Selenium automation project
